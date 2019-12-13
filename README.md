@@ -1,5 +1,5 @@
 # wxapp-mobile-library
-微信小程序漂流图书馆后端
+微信小程序后端http服务，与mongodb数据库操作
 # 预览
 ![image](https://github.com/ChinaUnicomRI/wxapp-mobile-library/blob/master/images/1.jpg)
 ![image](https://github.com/ChinaUnicomRI/wxapp-mobile-library/blob/master/images/2.jpg)
