@@ -1,9 +1,5 @@
 # wxapp-mobile-library
 微信小程序后端http服务，与mongodb数据库操作
-# 预览
-![image](https://github.com/ChinaUnicomRI/wxapp-mobile-library/blob/master/images/1.jpg)
-![image](https://github.com/ChinaUnicomRI/wxapp-mobile-library/blob/master/images/2.jpg)
-![image](https://github.com/ChinaUnicomRI/wxapp-mobile-library/blob/master/images/3.jpg)
 # 技术栈
 - **Express** : http服务框架
 - **websocket**: 前后端消息的实时推送
